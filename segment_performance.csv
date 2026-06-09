@@ -1,0 +1,6 @@
+customer_segment,total_revenue,total_spend,total_conv,roi,revenue_share
+High Value,17796.27,5062.14,41,251.6,26.4
+Mid Value,20441.63,8549.68,42,139.1,30.3
+Churned,5422.37,3055.55,11,77.5,8.0
+New Customer,9917.53,6581.3,18,50.7,14.7
+Low Value,13786.81,10470.32,30,31.7,20.5
