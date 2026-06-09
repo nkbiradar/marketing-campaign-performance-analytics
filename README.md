@@ -40,5 +40,19 @@ Marketing teams need to identify which channels and customer segments generate t
 - Focus targeting on high-value customer segments.
 - Implement continuous campaign performance monitoring.
 
+# Dashboard Screenshots
+
+## Executive Summary
+![Executive Summary](executive summary.png)
+
+## Channel Analysis
+![Channel Analysis](channel analysis.png)
+
+## Customer Segments
+![Customer Segments](customer segments.png)
+
+## Product Performance
+![Product Performance](product performance.png)
+
 ## Author
 Nayan Kumar Biradar
